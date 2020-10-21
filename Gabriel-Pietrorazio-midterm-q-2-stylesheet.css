@@ -94,7 +94,6 @@ img {
   width: 30%;
   align: center;
   margin: 0 auto;
-  border: 5px ridge #404040;
 }
 
 .center {
@@ -118,14 +117,17 @@ img {
 }
 
 .caption {
-  font-family: Georgia serif;
+  margin: auto;
+  font-family: Helvetica serif;
   font-size: 16px;
   text-align: center;
-  color: #cc7a00;
+  color: #003311;
   font-style: italic;
-  padding: 20px;
-  padding-bottom: 15px;
-  padding-left: 0;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 5px inset #404040;
+  width: 700px;
+  align: center;
 }
 
 img {
@@ -149,14 +151,17 @@ img2 {
 }
 
 .caption2 {
-  font-family: Georgia serif;
+  margin: auto;
+  font-family: Helvetica serif;
   font-size: 16px;
   text-align: center;
-  color: #cc7a00;
+  color: #003311;
   font-style: italic;
-  padding: 20px;
-  padding-bottom: 15px;
-  padding-left: 0;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 5px inset #404040;
+  width: 700px;
+  align: center;
 }
 
 .caption3 {
