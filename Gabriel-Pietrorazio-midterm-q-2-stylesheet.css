@@ -11,14 +11,14 @@
   padding-bottom: 20px;
   padding-top: 20px;
   font-size: 50px;
-  color: #e68a00;
-  background-color: #1a0f00;
+  color: #ffffff;
+  background-color: #003311;
 }
 
 #story{
   font-family: Helvetica;
   font-size: 30px;
-  color: #1a0f00;
+  color: #003311;
   font-weight: bold;
 }
 
@@ -27,14 +27,14 @@
   font-family: Helvetica, sans-serif;
   font-size: 14px;
   padding-top: 15px;
-  color: #e68a00;
+  color: #404040;
 }
 
 body {
-  background-color: #ffffff;
-  color: #1a0f00;
-  font-family: Georgia serif;
-  font-size: 13px;
+  background-color: #e6e6e6;
+  color: #003311;
+  font-family: Helvetica;
+  font-size: 12px;
 }
 
 /* .pquote {
@@ -49,6 +49,19 @@ body {
   margin: 0 5px 5px 0;
 } */
 
+.subheader {
+  font-family: Helvetica;
+  font-size: 25px;
+  color: #404040;
+  font-weight: bold;
+  font-style: italic;
+  padding: 5px;
+  background-color: #ffffff;
+  padding-left: 2.5px;
+  line-height: 30px;
+  border: 5px outset #003311;
+}
+
 blockquote {
   margin: 0;
 }
@@ -56,12 +69,12 @@ blockquote {
 #slogan {
   font-family: Helvetica;
   text-align: center;
-  color: #1a0f00;
+  color: #003311;
   font-style: italic;
   font-weight: bold;
   font-size: 18px;
   padding: 5px;
-  background-color: #e68a00;
+  background-color: #ffffff;
 }
 
 .pquote2 {
@@ -81,7 +94,7 @@ img {
   width: 30%;
   align: center;
   margin: 0 auto;
-  border: 5px ridge #e68a00;
+  border: 5px ridge #404040;
 }
 
 .center {
