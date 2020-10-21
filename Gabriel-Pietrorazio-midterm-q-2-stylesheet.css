@@ -88,6 +88,7 @@ blockquote {
     font-family: Helvetica serif;
     padding: 10px;
     margin: 0 10px 10px 0;
+    border: 4px outset #003311;
 }
 
 img {
