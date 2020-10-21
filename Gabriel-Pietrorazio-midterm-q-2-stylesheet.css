@@ -79,10 +79,10 @@ blockquote {
 
 .pullquote {
   float: left;
-    font-size: 25px;
+    font-size: 30px;
     width: 350px;
-    color: #000000;
-    -webkit-text-stroke: 1px #d9d9d9;
+    color: #003311;
+    -webkit-text-stroke: 1px #000000;
     background-color: #ffffff;
     font-weight: bold;
     font-family: Helvetica serif;
@@ -128,7 +128,6 @@ img {
   color: #003311;
   font-style: italic;
   padding: 6px;
-  padding-bottom: 10px;
   background-color: #ffffff;
   border: 5px inset #404040;
   width: 700px;
@@ -171,4 +170,8 @@ padding: 5px;
 padding-top: 10px;
 padding-left: 0;
 font-size: 14px;
+}
+
+.spacing {
+  padding:8px;
 }
