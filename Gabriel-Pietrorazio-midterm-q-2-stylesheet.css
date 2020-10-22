@@ -16,7 +16,7 @@
 }
 
 #story{
-  font-family: Helvetica;
+  font-family: Helvetica serif;
   font-size: 30px;
   color: #003311;
   font-weight: bold;
@@ -25,7 +25,7 @@
 #byline {
   font-style: italic;
   font-family: Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   padding-top: 15px;
   color: #404040;
 }
@@ -36,18 +36,6 @@ body {
   font-family: Helvetica;
   font-size: 12px;
 }
-
-/* .pquote {
-  float: left;
-  width: 200px;
-  font-weight: bold;
-  font-style: italic;
-  color: #e68a00;
-  padding-bottom: 0;
-  padding-right: 0;
-  font-size: 20px;
-  margin: 0 5px 5px 0;
-} */
 
 .subheader {
   font-family: Helvetica;
@@ -106,6 +94,8 @@ img {
   margin-right: auto;
   width: 65%;
 }
+
+/* I had a challenging time dealing with resizing the caption boxes and borders. This was the most difficult aspect with CSS to date. */
 
 .caption {
   margin: auto;
